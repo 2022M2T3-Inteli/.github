@@ -1,4 +1,4 @@
-# 🙋‍ 2022.2 - Módulo WEB - Turma 2 - YAMAHA
+# 🙋‍ 2022.2 - Módulo WEB - Turma 3 - YAMAHA
 
 ## 🔍 O problema:
 

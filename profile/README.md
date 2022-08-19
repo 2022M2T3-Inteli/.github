@@ -1,13 +1,13 @@
 # 🙋‍ 2022.2 - Módulo WEB - Turma 3 - YAMAHA
 
 ## 🔍 O problema:
-
+Baixa maturidade na execução do capacity planning no processo de seleção de projetos de tecnologia.
 
 ## 🎯 O objetivo:
-Facilitar o processo de análise de disponibilidade de horas dos recursos humanos da Yamaha para projetos e otimizar a alocação dos funcionários em projetos existentes.
+Uma aplicação web que permita cruzar o planejamento de projetos com a capacidade de recursos humanos de tecnologia, com o objetivo de identificar gargalos na linha do tempo e redistribuir o portfólio de forma adequada.
 
 ## 🧩 O público-alvo:
-
+Diretores, Gestores de TI, PMO e Analistass
 
 ## 💻 Desenvolvimento WEB:
 

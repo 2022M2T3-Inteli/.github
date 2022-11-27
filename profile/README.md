@@ -12,11 +12,11 @@ Diretores, Gestores de TI, PMO e Analistass
 ## 💻 Desenvolvimento WEB:
 
 - Grupo 1 - Grupo Kando - Desenvolvimento WEB "Yamaha Planning System":
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T3/Grupo-Kando
 
 - Grupo 2 - 50tinha - Desenvolvimento WEB "Yamaha Planning System":
-  - Link para acessar:
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T3/50tinha
   
 - Grupo 3 - YamaTech - Desenvolvimento WEB "Gerenciador e Alocador de Capacity":
@@ -24,9 +24,9 @@ Diretores, Gestores de TI, PMO e Analistass
   - Link do repositório: https://github.com/2022M2T3/YamaTech
   
 - Grupo 4 - Akatonbo (Red Dragonfly) - Desenvolvimento WEB "Yamaha Planning System":
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T3/Akatonbo-Red-Dragonfly-
   
 - Grupo 5 - Gakki - Desenvolvimento WEB "Yamaha Management System":
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T3/Gakki
